@@ -1,0 +1,22 @@
+{
+  "name": "registration",
+  "version": "1.0.0",
+  "description": "Registration test for future website",
+  "main": "registration.js",
+  "scripts": {
+    "start": "node registration.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikishlep/registration.git"
+  },
+  "keywords": [
+    "registration"
+  ],
+  "author": "mikishlep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikishlep/registration/issues"
+  },
+  "homepage": "https://github.com/mikishlep/registration#readme"
+}
