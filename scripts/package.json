@@ -2,9 +2,9 @@
   "name": "registration",
   "version": "1.0.0",
   "description": "Registration test for future website",
-  "main": "registration.js",
+  "main": ".js",
   "scripts": {
-    "start": "node registration.js"
+    "start": "node auth.js"
   },
   "repository": {
     "type": "git",
